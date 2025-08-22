@@ -1,0 +1,2 @@
+C:\Users\user\NBC_Task2\NBC_TASK2_PlayerClass\Debug\NBC_TASK2_PlayerClass.exe
+C:\Users\user\NBC_Task2\NBC_TASK2_PlayerClass\Debug\NBC_TASK2_PlayerClass.pdb
